@@ -8,4 +8,27 @@ however the mean value assumes we are assumes we are using RGb order. After the 
 From the 4 dimensional array We have to calculate the confidence_value if the confidence_value is greater than 70 then only show the out put.
 
 
+**Output**
+
+<img align="left" alt="Coding" Width="400" src=".\output.jpg"> 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+#Data set Used form Kaggle:https://www.kaggle.com/code/ahmednour/gender-and-age-detection/data
+
+
+
 
